@@ -1,2 +1,2 @@
-# image_cartoon
-Use cartoon effect in a image 
+# Use cartoon effect in a image
+
